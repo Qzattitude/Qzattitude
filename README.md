@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farzin Anan Mukit
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning .Net, React and Angular 
-- 💞️ I’m looking for a fresher job
+- 💞️
 - 📫 Reach out to me https://www.linkedin.com/in/farzinmukit/
 
 <!---
